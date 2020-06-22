@@ -10,6 +10,7 @@ public class TestMain {
         //测试push4
         //master reset 测试一
         //reset devlop测试一
+        //reset devlop测试二
         Class<Long> longClass = Long.class;
         Constructor<?>[] constructors = longClass.getConstructors();
     }
