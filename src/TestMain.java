@@ -5,6 +5,7 @@ public class TestMain {
 //git  master开发新功能 a
 //git  devlop b
         //测试push3
+        //测试push4
         Class<Long> longClass = Long.class;
         Constructor<?>[] constructors = longClass.getConstructors();
     }
